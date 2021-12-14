@@ -13,7 +13,7 @@ void main()
 	cin >> y;
 
 	// Xuất ra kết quả tính toán tương ứng
-	cout<<endl;
+	
 	cout << "\tx + y = " << x + y << endl;
 	cout << "\tx - y = " << x - y << endl;
 	cout << "\tx * y = " << x * y << endl;
