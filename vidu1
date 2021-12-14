@@ -11,6 +11,8 @@ void main()
 	
 	cout << "Please input y: "<<endl<<endl;
 	cin >> y;
+	//tinh cong
+	cout<<"tong 2 so"<<Cong(a,b)<<endl;
 
 	// Xuất ra kết quả tính toán tương ứng
 	cout<<endl;
